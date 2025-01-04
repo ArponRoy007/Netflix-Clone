@@ -289,8 +289,8 @@ footer .questions {
 .top-bar {
     display: flex;
     align-items: center;
-    gap: 20px; /* Space between the selector and the text */
-    justify-content: flex-start; /* Aligns both items to the left */
+    gap: 20px;
+    justify-content: flex-start;
     padding: 20px 0;
 }
 
